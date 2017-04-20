@@ -1,0 +1,9 @@
+name: GuiAPI
+version: 1.0
+authors: [Birdcraft33]
+main: com.bluebird.api.gui.GuiApiInitializer
+
+commands:
+  test:
+    description: testCommand
+    usage: /<command>
