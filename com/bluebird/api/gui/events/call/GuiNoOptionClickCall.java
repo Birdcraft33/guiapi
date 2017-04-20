@@ -35,5 +35,5 @@ public class GuiNoOptionClickCall implements Listener{
 		}
 	}
 	
-	
+
 }
