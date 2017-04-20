@@ -305,8 +305,8 @@ public class Gui{
 	public static boolean inventoryIsGui(Inventory inventory) {
 		for(Gui gui : guis) {
 			/*FOR EVERY GUI*/
-			if(gui.getInventory() != null) {	System.out.println("Inventory != null");
-				if(gui.getInventory().equals(inventory)) {	System.out.println("Inventory is Gui");
+			if(gui.getInventory() != null) {
+				if(gui.getInventory().equals(inventory)) {
 					return true;
 				}
 			}
